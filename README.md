@@ -5,7 +5,7 @@
 &emsp; * **Closing price compared to Moving Average**<br/>
 *which I will describe sequentially*.<br/><br/>
 ## **Closing Price compared to Previous Close**<br/>
-*Using such indicators, traders can identify momentum trading signals. They sought to see if the market was overbought or oversold at close and if it could change directions.Eg:- <br/>
+*Using such indicators, traders can identify momentum trading signals. They sought to see if the market was overbought or oversold at close and if it could change directions.Eg:-* <br/>
 &emsp; ### **RSI(Relative Strength Index)** <br/>
 
 
