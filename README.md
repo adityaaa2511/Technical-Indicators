@@ -4,7 +4,7 @@
 &emsp; * **Closing price compared to Range**<br/>
 &emsp; * **Closing price compared to Moving Average**<br/>
 which I will describe sequentially.<br/><br/>
-**Closing Price compared to Previous Close**
+## **Closing Price compared to Previous Close**
 
 
 
