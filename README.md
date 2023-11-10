@@ -33,7 +33,10 @@ price.
 falling below the lowest possible point (which makes the price too less), the trend trader prefers selling the stocks and exiting the market. For instance, if the stock price decreases by $70 and
 then increases by $40 and then again falls by $50 to reach $80, a trader will see a formation in a downward trend. It shows through the lower highs (the occasional increase in price is not
 taking the price line towards upward direction) and lower lows (the decrease in price is taking the price line towards downward direction more often) in the stock price during a downtrend.
-
-
+### **Moving Average Convergence Divergence(MACD)**
+* MACD stands for Moving Average Convergence Divergence. It is a trend-following momentum indicator that shows the relationship between two moving averages (MAs) of prices. The MACD indicator formula is calculated by subtracting the 26-day Exponential Moving Average (EMA) from the 12-day EMA. A nine-day EMA of the MACD is known as the **Signal Line**, which is plotted on top of the MACD, usually marking triggers for buy and sell signals. 
+* When the price is making a lower low, but the MACD is making a higher low – we call it bullish divergence. If the MACD is making a lower high, but the price is making a higher high – we call it a bearish divergence. Divergence will almost always occur right after a sharp price movement higher or lower. Divergence is just a cue that the price might reverse, and it's usually confirmed by a trendline break.
+* A simple MACD trading strategy is called the Signal Line Crossover, or MACD crossover trading strategy. A bullish crossover happens when the MACD line turns upwards and crosses beyond the signal line. A bearish crossover happens when the MACD turns downwards and crosses under the signal line. When this happens, you want to be sure both lines move as far apart from each other as they can.
+This can signal that the momentum of the price will continue moving in the desired direction.
 
 
