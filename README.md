@@ -19,7 +19,7 @@ some mean price level since they rely on an asset's price history. Similar to RS
 * Stochastic oscillator charting generally consists of two lines: one reflecting the actual value of the oscillator for each session, and one reflecting its three-day simple moving average. Because
 price is thought to follow momentum, the intersection of these two lines is considered to be a signal that a reversal may be in the works, as it indicates a large shift in momentum from day to
 day. Divergence between the stochastic oscillator and trending price action is also seen as an important reversal signal. For example, when a bearish trend reaches a new lower low, but the
-oscillator prints a higher low, it may be an indicator that bears are exhausting their momentum and a bullish reversal is brewing. Formula:-
+oscillator prints a higher low, it may be an indicator that bears are exhausting their momentum and a bullish reversal is brewing. Formula:-<br/>
 &emsp; **%K=(C-L14/H14-L14)100**
 
 
