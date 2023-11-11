@@ -23,18 +23,20 @@ day. Divergence between the stochastic oscillator and trending price action is a
 oscillator prints a higher low, it may be an indicator that bears are exhausting their momentum and a bullish reversal is brewing. Formula:-<br/>
 &emsp; **%K=(C-L14/H14-L14)100** <br/>
 #### **Williams%R**
-* The Williams %R is a momentum indicator whose values oscillate between 0 to -100. Traders use this indicator to spot potential entry and exit points for trades by constructing two levels of overbought and oversold.
+* The Williams %R is a leading momentum indicator(an indicator that takes into account the previous data points to predict future movements) whose values oscillate between 0 to -100. Traders use this indicator to spot potential entry and exit points for trades by constructing two levels of overbought and oversold.
 * Williams%R is calculated as follows:<br/>
-&emsp; **W%R 14** = [ H.HIGH - C.PRICE ] / [ L.LOW - C.PRICE ] * ( - 100 )<br/>
+&emsp; **W%R 14 = [ H.HIGH - C.PRICE ] / [ L.LOW - C.PRICE ] * ( - 100 )** <br/>
 &emsp; where,<br/>
 &emsp; W%R 14 = 14-day Williams %R of the stock<br/>
 &emsp; H.HIGH = 14-day Highest High of the stock<br/>
 &emsp; L.LOW = 14-day Lowest Low of the stock<br/>
 &emsp; C.PRICE = Closing price of the stock<br/>
 *The underlying idea of this indicator is that the stock will keep reaching new highs when it is a strong uptrend and similarly, the stock will reach new lows when it follows a sturdy downtrend.*
-*  Now, let’s analyze a chart of Williams%R to build a strong understanding of the indicator.
-![867939_8c36c185642d4abea62d197687bf169d~mv2](https://github.com/adityaaa2511/Technical-Indicators/assets/137895529/a36c3256-4118-4919-8bce-44cec2f3dd89)
-
+*  Now, let’s analyze a chart of Williams%R to build a strong understanding of the indicator.<br/>
+![867939_8c36c185642d4abea62d197687bf169d~mv2](https://github.com/adityaaa2511/Technical-Indicators/assets/137895529/a36c3256-4118-4919-8bce-44cec2f3dd89) <br/>
+This chart can be utitlized in 2 ways:-<br/>
+&emsp; 1) Use the chart as a tool to identify overbought and oversold states of the market. We can observe that there are two horizontal grey lines plotted above and below the market which is nothing but the overbought and oversold levels plotted at a threshold of -20 and -80 respectively. You can consider that the market is in the state of overbought if the Williams %R has a reading above the upper line or the overbought line. Similarly, you can assume that the market is in the state of oversold if the Williams %R has a reading below the lower line or the oversold line.<br/>
+&emsp; 2) Use Williams %R is to identify false momentum in the market. During a sturdy uptrend, the readings of Williams %R tend to reach above -20 frequently. If the indicator falls and struggles to reach above -20 before the next fall, indicates that the market’s momentum is not authentic and is possible to follow a tremendous downtrend. Likewise, during a healthy downtrend, the readings of Williams %R are bound to go below -80 frequently. If the indicator rises and fails to reach -80 before the next rise, reveals that the market is going to follow a positive trend.
 ## **Trend Following Indicators**
 *Trend-following strategies are strategies where you simply ride the trend, i.e. buy when the price is going up and sell when the price starts going down (both for a prolonged time period). With
 trend-following strategies, one does not aim to forecast or predict, but one simply needs to keep an eye on the market for any emerging trend. Trends emerge as a result of human emotion and the desire to follow the crowd since a group of people can base their trading decision on an emotion triggered by an event. And, the others follow! Types of trends:-*
