@@ -24,13 +24,13 @@ oscillator prints a higher low, it may be an indicator that bears are exhausting
 &emsp; **%K=(C-L14/H14-L14)100** <br/>
 #### **Williams%R**
 * The Williams %R is a momentum indicator whose values oscillate between 0 to -100. Traders use this indicator to spot potential entry and exit points for trades by constructing two levels of overbought and oversold.
-* Williams%R is calculated as follows:
-&emsp; **W%R 14** = [ H.HIGH - C.PRICE ] / [ L.LOW - C.PRICE ] * ( - 100 )
-&emsp; where,
-&emsp; W%R 14 = 14-day Williams %R of the stock
-&emsp; H.HIGH = 14-day Highest High of the stock
-&emsp; L.LOW = 14-day Lowest Low of the stock
-&emsp; C.PRICE = Closing price of the stock
+* Williams%R is calculated as follows:<br/>
+&emsp; **W%R 14** = [ H.HIGH - C.PRICE ] / [ L.LOW - C.PRICE ] * ( - 100 )<br/>
+&emsp; where,<br/>
+&emsp; W%R 14 = 14-day Williams %R of the stock<br/>
+&emsp; H.HIGH = 14-day Highest High of the stock<br/>
+&emsp; L.LOW = 14-day Lowest Low of the stock<br/>
+&emsp; C.PRICE = Closing price of the stock<br/>
 ![867939_8c36c185642d4abea62d197687bf169d~mv2](https://github.com/adityaaa2511/Technical-Indicators/assets/137895529/a36c3256-4118-4919-8bce-44cec2f3dd89)
 ## **Trend Following Indicators**
 *Trend-following strategies are strategies where you simply ride the trend, i.e. buy when the price is going up and sell when the price starts going down (both for a prolonged time period). With
