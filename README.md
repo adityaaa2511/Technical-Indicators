@@ -31,7 +31,10 @@ oscillator prints a higher low, it may be an indicator that bears are exhausting
 &emsp; H.HIGH = 14-day Highest High of the stock<br/>
 &emsp; L.LOW = 14-day Lowest Low of the stock<br/>
 &emsp; C.PRICE = Closing price of the stock<br/>
+*The underlying idea of this indicator is that the stock will keep reaching new highs when it is a strong uptrend and similarly, the stock will reach new lows when it follows a sturdy downtrend.*
+*  Now, let’s analyze a chart of Williams%R to build a strong understanding of the indicator.
 ![867939_8c36c185642d4abea62d197687bf169d~mv2](https://github.com/adityaaa2511/Technical-Indicators/assets/137895529/a36c3256-4118-4919-8bce-44cec2f3dd89)
+
 ## **Trend Following Indicators**
 *Trend-following strategies are strategies where you simply ride the trend, i.e. buy when the price is going up and sell when the price starts going down (both for a prolonged time period). With
 trend-following strategies, one does not aim to forecast or predict, but one simply needs to keep an eye on the market for any emerging trend. Trends emerge as a result of human emotion and the desire to follow the crowd since a group of people can base their trading decision on an emotion triggered by an event. And, the others follow! Types of trends:-*
