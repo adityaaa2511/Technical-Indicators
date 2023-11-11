@@ -21,7 +21,10 @@ some mean price level since they rely on an asset's price history. Similar to RS
 price is thought to follow momentum, the intersection of these two lines is considered to be a signal that a reversal may be in the works, as it indicates a large shift in momentum from day to
 day. Divergence between the stochastic oscillator and trending price action is also seen as an important reversal signal. For example, when a bearish trend reaches a new lower low, but the
 oscillator prints a higher low, it may be an indicator that bears are exhausting their momentum and a bullish reversal is brewing. Formula:-<br/>
-&emsp; **%K=(C-L14/H14-L14)100**
+&emsp; **%K=(C-L14/H14-L14)100** <br/>
+#### **Williams%R**
+* The Williams %R is a momentum indicator whose values oscillate between 0 to -100. Traders use this indicator to spot potential entry and exit points for trades by constructing two levels of overbought and oversold.
+![867939_8c36c185642d4abea62d197687bf169d~mv2](https://github.com/adityaaa2511/Technical-Indicators/assets/137895529/a36c3256-4118-4919-8bce-44cec2f3dd89)
 ## **Trend Following Indicators**
 *Trend-following strategies are strategies where you simply ride the trend, i.e. buy when the price is going up and sell when the price starts going down (both for a prolonged time period). With
 trend-following strategies, one does not aim to forecast or predict, but one simply needs to keep an eye on the market for any emerging trend. Trends emerge as a result of human emotion and the desire to follow the crowd since a group of people can base their trading decision on an emotion triggered by an event. And, the others follow! Types of trends:-*
