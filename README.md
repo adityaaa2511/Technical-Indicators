@@ -52,7 +52,7 @@ taking the price line towards upward direction) and lower lows (the decrease in 
 * When the price is making a lower low, but the MACD is making a higher low – we call it bullish divergence. If the MACD is making a lower high, but the price is making a higher high – we call it a bearish divergence. Divergence will almost always occur right after a sharp price movement higher or lower. Divergence is just a cue that the price might reverse, and it's usually confirmed by a trendline break.
 * A simple MACD trading strategy is called the Signal Line Crossover, or MACD crossover trading strategy. A bullish crossover happens when the MACD line turns upwards and crosses beyond the signal line. A bearish crossover happens when the MACD turns downwards and crosses under the signal line. When this happens, we want to be sure both lines move as far apart from each other as they can.
 This can signal that the momentum of the price will continue moving in the desired direction.
-* **STRATEGY:-** We will be using a trading strategy(for implementation purposes) as follows:-
-&emsp; PREV.WR > -50 AND CUR.WR < -50 AND MACD.L > SIGNAL.L ==> BUY SIGNAL
-&emsp; PREV.WR < -50 AND CUR.WR > -50 AND MACD.L < SIGNAL.L ==> SELL SIGNAL
+* **STRATEGY:-** We will be using a trading strategy(for implementation purposes) as follows:-<br/>
+&emsp; **PREV.WR > -50 AND CUR.WR < -50 AND MACD.L > SIGNAL.L ==> BUY SIGNAL** <br/>
+&emsp; **PREV.WR < -50 AND CUR.WR > -50 AND MACD.L < SIGNAL.L ==> SELL SIGNAL** <br/>
 
