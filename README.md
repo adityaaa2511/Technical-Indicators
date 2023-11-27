@@ -62,3 +62,9 @@ This can signal that the momentum of the price will continue moving in the desir
 ![image](https://github.com/adityaaa2511/Technical-Indicators/assets/137895529/59953c7a-8d03-4179-8dad-ac24aab7dd0a)
 ![image](https://github.com/adityaaa2511/Technical-Indicators/assets/137895529/6d1ab296-c60e-4f1b-982a-3dd6ff890265)
 ## **Volume Based Indicators**
+### On Balance Volume(OBV)
+* On Balance Volume (OBV) is calculated by adding the volume to a cumulative total when price closes up, and subtracting the volume when price closes down. If there is no price change, there is no change made to the OBV cumulative total. Also, volume is considered to be a leading indicator in general. 
+&emsp; If today’s close > previous close: Previous cumulative volume + Today’s volume = OBV
+&emsp; If today’s close < previous close: Previous cumulative volume – Today’s volume = OBV
+* When the OBV changes to a rising or falling trend, a breakout has occurred. Since OBV breakouts normally precede price breakouts, we should be prepared to buy OBV upside breakouts and short downside OBV breakouts. Another important study done with OBV is to compare it with a volume bar. When the volume of a candle is much greater than the OBV after a sustained trend has occurred indicates a possible trend reversal. This needs to be combined with another indicator to confirm the signal.
+
