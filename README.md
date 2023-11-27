@@ -55,4 +55,10 @@ This can signal that the momentum of the price will continue moving in the desir
 * **STRATEGY:-** We will be using a trading strategy(for implementation purposes) as follows:-<br/>
 &emsp; **PREV.WR > -50 AND CUR.WR < -50 AND MACD.L > SIGNAL.L ==> BUY SIGNAL** <br/>
 &emsp; **PREV.WR < -50 AND CUR.WR > -50 AND MACD.L < SIGNAL.L ==> SELL SIGNAL** <br/>
+## **Volatility Based Indicators**
+* The volatility of the price is the range in which the price can vary in an upward or downward trend. The faster prices change, the higher the volatility. The slower prices change, the lower the volatility. Higher volatility indicates greater price fluctuations and increased market uncertainty. It also typically signals if a market is overbought or oversold (meaning the price is unjustifiably high or unjustifiably low), which can point to a stalling or reversal of the trend. Examples of such indicators are **Average True Range (ATR), Bollinger Bands (BB)** <br/>
+### Bollinger Bands(BB)
+* Bollinger bands, which are composed of three lines, quantify price volatility through the width of its upper and lower standard deviation bands; standard deviation represents how far prices deviate from the average price. It involves the use of three bands—one for the upper level, another for the lower level, and the third for the moving average. Prices moving toward the upper band are a sign that the market might be overbought. In contrast, if prices eventually drift towards the lower or bottom band, the market can be oversold.
+![image](https://github.com/adityaaa2511/Technical-Indicators/assets/137895529/59953c7a-8d03-4179-8dad-ac24aab7dd0a)
+![image](https://github.com/adityaaa2511/Technical-Indicators/assets/137895529/6d1ab296-c60e-4f1b-982a-3dd6ff890265)
 
