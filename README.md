@@ -61,4 +61,4 @@ This can signal that the momentum of the price will continue moving in the desir
 * Bollinger bands, which are composed of three lines, quantify price volatility through the width of its upper and lower standard deviation bands; standard deviation represents how far prices deviate from the average price. It involves the use of three bands—one for the upper level, another for the lower level, and the third for the moving average. Prices moving toward the upper band are a sign that the market might be overbought. In contrast, if prices eventually drift towards the lower or bottom band, the market can be oversold.
 ![image](https://github.com/adityaaa2511/Technical-Indicators/assets/137895529/59953c7a-8d03-4179-8dad-ac24aab7dd0a)
 ![image](https://github.com/adityaaa2511/Technical-Indicators/assets/137895529/6d1ab296-c60e-4f1b-982a-3dd6ff890265)
-
+## **Volume Based Indicators**
